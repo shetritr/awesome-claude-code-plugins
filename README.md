@@ -158,10 +158,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [database-performance-optimizer](./plugins/database-performance-optimizer)
 - [debug-session](./plugins/debug-session)
 - [debugger](./plugins/debugger)
-- [diffo](https://github.com/DiffoHQ/diffo) - Local live review of uncommitted work in the browser,
-  wired to the Claude Code session that wrote the code: a comment on a line reaches that session, and
-  its answer or its fix lands in the diff while it is being read. Not a reviewer bot — it never grades
-  the diff. Loopback-only, no account, no telemetry. Apache-2.0. Live demo: https://diffo.io/demo
+- [diffo](https://github.com/DiffoHQ/diffo) - Local live review of uncommitted work, wired to the Claude Code session that wrote the code: comment on a line and its answer or its fix lands in the diff as you read. Loopback-only, no telemetry. Demo: https://diffo.io/demo
 - [double-check](./plugins/double-check)
 - [optimize](./plugins/optimize)
 - [performance-benchmarker](./plugins/performance-benchmarker)
